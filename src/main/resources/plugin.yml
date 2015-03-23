@@ -1,0 +1,10 @@
+name: SELBans
+main: me.HeyAwesomePeople.selbans.SELBans
+version: 1.0
+description: >
+             Banning plugin
+commands:
+  sb:
+    description: Main Command
+  selb:
+    description: Main Command

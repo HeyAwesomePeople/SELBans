@@ -1,0 +1,6 @@
+database:
+  host: '50.87.145.166'
+  port: '3306'
+  database: btlv2048_selbans
+  user: btlv2048_pac
+  pass: '&dww~N+BT8=)'
